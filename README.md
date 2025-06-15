@@ -10,3 +10,6 @@ the file called stabrolle is a 3mm pin you can use as bearing for the 4 wheels i
 my boom will be updatet with the screws in future
 the pinmapping you can also use at nicholas rehm drehmflight vtol at github. 
 
+the gerber file you can use over JLC PCB to get your own pcb to wire all of this transformer. ( but its in a testing period.) check file before you order. Everything you do with this files on this repository is at your own risk.
+
+
